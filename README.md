@@ -3,8 +3,9 @@ Adaptive Shader for Point Cloud based on PCX
 
 <img src="./Demo/Dance.gif" height="600">
 
-<img src="./Demo/Dennis.jpg" height="500">
-<img src="./Demo/Mei.jpg" height="500">
+![Demo](./Demo/Dennis.jpg)
+
+![Demo](./Demo/Mei.jpg)
 
 
 **Adaptive Shader** for PCX is a geometry shader developed in Unity and for Human point cloud rendering. It is used for the course project [Virtual Humans](https://vlg.inf.ethz.ch/teaching/Virtual-Humans.html) taught at ETH Zurich. The codebase is [PCX](https://github.com/keijiro/Pcx)
@@ -18,7 +19,7 @@ Features
 
 Video Demo
 -------------------
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=gonC-eiI_E0)
+[![Youtube Link](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=gonC-eiI_E0)
 
 
 System Requirements
