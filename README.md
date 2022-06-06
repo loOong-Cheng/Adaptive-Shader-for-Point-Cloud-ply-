@@ -5,7 +5,7 @@ Adaptive Shader for Point Cloud based on PCX
 
 <p float="center">
   <img src="./Demo/Dennis.jpg" width="200" /> 
-  <img src="./Demo/Mei.jpg" width="213" /> 
+  <img src="./Demo/Mei.jpg" width="200" /> 
 </p>
 
 
