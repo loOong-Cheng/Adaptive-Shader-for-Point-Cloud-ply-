@@ -9,7 +9,7 @@ Adaptive Shader for Point Cloud based on PCX
 </p>
 
 
-**Adaptive Shader** for PCX is a geometry shader developed in Unity and for Human point cloud rendering. It is used for the course project [Virtual Humans](https://vlg.inf.ethz.ch/teaching/Virtual-Humans.html) taught at ETH Zurich. The codebase is [PCX](https://github.com/keijiro/Pcx)
+**Adaptive Shader** for PCX is a unity project featuring a novel geometry shader and Human point cloud rendering. It is used for the course project [Virtual Humans](https://vlg.inf.ethz.ch/teaching/Virtual-Humans.html) taught at ETH Zurich. The codebase is [PCX](https://github.com/keijiro/Pcx)
 
 Features
 -------------------
@@ -20,6 +20,7 @@ Features
 
 Video Demo
 -------------------
+
 [![Youtube Link](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=gonC-eiI_E0)
 
 
@@ -36,8 +37,16 @@ How to Import the project
 -------------------
 In Unity hub, under Projects page:
 - Click Open
-- Add project from disk
+
+<img src="./Demo/Project_Import_0.jpg" height="150">
+
+- Add project from disk 
+
+<img src="./Demo/Project_Import_1.jpg" height="80">
+
 - Find the local path of this project
+
+<img src="./Demo/Project_Import_2.jpg" height="50">
 
 Point Rendering with adaptive point size
 -------------------
@@ -55,4 +64,4 @@ Future
 
 Acknowledgements
 -------------------
-The point clouds used for development in this project are converted from free meshes (static and animated) in [RenderPeople](https://renderpeople.com/3d-people/). Point clouds importing and converting are using [PCX](https://github.com/keijiro/Pcx)
+The point clouds used for development in this project are converted from free meshes (static and animated) in [RenderPeople](https://renderpeople.com/3d-people/). Point clouds importing and converting are using [PCX](https://github.com/keijiro/Pcx).
