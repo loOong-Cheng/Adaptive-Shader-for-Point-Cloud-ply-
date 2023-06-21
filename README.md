@@ -13,7 +13,7 @@ Adaptive Shader for Point Cloud based on PCX
 
 Features
 -------------------
-- Efficient human point cloud rendering, for normal project settup and for rendering in VR (120 FPS, tested on oculus quest 2, either wirelessly or wired through link cable, with desktop GTX1660 hardware).
+- Efficient human point cloud rendering, for normal project settup and for rendering in VR (120 FPS, tested on oculus quest 2 through link cable, with desktop GTX1660 hardware).
 - Unlike Pcx, squares of the point clouds are facing the normals of the original points, instead of facing to the camera.
 - Automatic point size adjustment by precomuting a polynomial fitted to the point size function.
 - Add Shadow pass and [blinn-phong illumination](https://en.wikipedia.org/wiki/Blinn%E2%80%93Phong_reflection_model) in fragment shader. 
